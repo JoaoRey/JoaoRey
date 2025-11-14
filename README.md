@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Rey</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joaorey&label=Profile%20views&color=4b00b0&style=flat-square" alt="joaorey" /> </p>
 
-- 📚 **I'm currently in the 3rd year of the Informatic and Computing Engineering Degree at @FEUP**
+- 📚 **1st Year Student of the master in Informatics and Computing Engineering at the Faculty of Engineering of the University of Porto @FEUP**
 
 - ⚡ Fun fact **In My free time I like to read,do sports and learn new things.**
 
